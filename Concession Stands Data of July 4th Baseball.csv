@@ -1,0 +1,101 @@
+Order Number,Customer Name,Concession Item,Quantity,Total Cost,Payment Method,Payment Type
+1111,Customer A1,Hot Dog,1,1.75,Cash,-
+1112,Customer A2,"Ice Cream (Vanilla), Ice Cream (Strawberry)",3,6.00,Cash,-
+1113,Customer A3,Chicken Sandwich,2,9.50,Credit Card,MasterCard
+1114,Customer A4,Chicken Sandwich,1,4.75,Cash,-
+1115,Customer A5,Hot Dog,4,7.00,Credit Card,Visa
+1116,Customer A6,Supreme Pizza (Whole),4,11.25,Credit Card,Visa
+1117,Customer A7,Pepperoni Pizza (Slice),3,9.75,Cash,-
+1118,Customer A7,"Hot Dog, Water Bottle",2,7.70,Credit Card,Discover
+1119,Customer A9,"Hot Dog, Cheese Pizza (Slice), Soda",5,33.00,Credit Card,MasterCard
+1120,Customer A10,"Chicken Sandwich, Fries, Soda",2,13.90,Credit Card,Discover
+1121,Customer A11,"Chicken Sandwich, Fries, Popcorn, Soda",3,30.45,Credit Card,Visa
+1122,Customer A12,"Hot Dog, Ice Cream (Chocolate)",5,23.75,Credit Card,Visa
+1123,Customer A13,"Hot Dog, Soda",3,10.35,Credit Card,Visa
+1124,Customer A14,"Hot Dog, Soda",6,20.70,Credit Card,Discover
+1124,Customer A15,"Whole Pepperoni, Lemonade",4,21.25,Credit Card,Visa
+1125,Customer A16,"Hot Dog, Ice Cream (Strawberry)",3,14.75,Cash,-
+1126,Customer A17,"Hot Dog, Fries, Soda",5,28.25,Credit Card,Discover
+1127,Customer A18,"Hot Dog, Soda",4,13.80,Cash,-
+1128,Customer A19,"Whole Meatball, Soda",6,20.95,Credit Card,MasterCard
+1129,Customer A20,"Cheese Pizza (Slice), Water Bottle",2,10.50,Credit Card,MasterCard
+1130,Customer A21,"Popcorn, Soda",4,12.80,Cash,-
+1131,Customer A22,"Hot Dog, Popcorn, Soda",3,14.85,Credit Card,Discover
+1132,Customer A23,"Popcorn, Soda",2,12.80,Credit Card,Discover
+1133,Customer A24,Chicken Sandwich,1,4.75,Cash,-
+1134,Customer A25,"Chicken Sandwich, Fries, Soda",4,34.60,Credit Card,Visa
+1135,Customer A26,Popcorn,3,4.50,Credit Card,Visa
+1136,Customer A27,Water Bottle,1,2.10,Cash,-
+1137,Customer A28,"Pepperoni Pizza (Slice), Water Bottle",2,10.70,Credit Card,MasterCard
+1138,Customer A29,"Hot Dog, Soda",3,10.35,Credit Card,Visa
+1139,Customer A30,Ice Cream (Vanilla),4,12.00,Credit Card,Discover
+1140,Customer A31,"Hot Dog, Ice Cream (Vanilla)",3,14.25,Credit Card,MasterCard
+1141,Customer A32,"Hot Dog, Fries, Soda",3,16.95,Credit Card,MasterCard
+1142,Customer A33,Whole Supreme,4,12.15,Cash,-
+1143,Customer A34,"Cheese Pizza (Slice), Ice Cream (Strawberry)",3,18.45,Credit Card,Visa
+1144,Customer A35,"Hot Dog, Fries, Soda",3,16.95,Credit Card,MasterCard
+1145,Customer A36,"Hot Dog, Ice Cream (Chocolate)",4,19.00,Credit Card,Visa
+1145,Customer A37,"Hot Dog, Soda",2,6.90,Credit Card,Discover
+1146,Customer A38,"Hot Dog, Soda",4,12.80,Credit Card,Visa
+1147,Customer A39,"Popcorn, Ice Cream (Strawberry)",3,13.50,Credit Card,MasterCard
+1148,Customer A40,"Popcorn, Soda",2,6.40,Cash,-
+1149,Customer A41,"Pepperoni Pizza (Slice), Soda",1,4.95,Credit Card,MasterCard
+1150,Customer A42,"Pepperoni Pizza (Slice), Soda",3,14.85,Credit Card,Discover
+1151,Customer A43,"Popcorn, Soda",4,12.80,Credit Card,Discover
+1152,Customer A44,"Chicken Sandwich, Fries, Popcorn, Soda",4,40.60,Credit Card,MasterCard
+1153,Customer A45,"Chicken Sandwich, Fries, Soda",5,43.25,Credit Card,MasterCard
+1154,Customer A46,"Cheese Pizza (Slice), Water Bottle",4,21.00,Credit Card,Discover
+1155,Customer A47,"Ice Cream (Vanilla), Water Bottle",4,20.40,Credit Card,Visa
+1156,Customer A48,Ice Cream (Vanilla),3,9.00,Cash,-
+1157,Customer A49,"Hot Dog, Pepperoni  Pizza (Slice), Soda",3,20.10,Credit Card,Discover
+1158,Customer A50,"Hot Dog, Soda",2,6.90,Cash,-
+1201,Customer B1,"Whole Meatball, Soda",3,16.35,Credit Card,Discover
+1202,Customer B2,"Hot Dog, Ice Cream (Strawberry)",4,19.00,Credit Card,Visa
+1203,Customer B3,"Supreme Pizza (Whole), Ice Cream (Chocolate), Soda",4,30.95,Credit Card,MasterCard
+1204,Customer B4,"Cheese Pizza (Slice), Fries, Soda",3,21.15,Credit Card,MasterCard
+1205,Customer B5,"Chicken Sandwich, Fries, Soda",5,43.25,Credit Card,MasterCard
+1206,Customer B6,"Hot Dog, Ice Cream (Strawberry)",2,9.50,Credit Card,MasterCard
+1207,Customer B7,"Pepperoni Pizza (Slice), Soda",4,19.80,Credit Card,Discover
+1208,Customer B8,"Popcorn, Soda",3,9.60,Cash,-
+1209,Customer B9,"Whole Meatball, Ice Cream (Vanilla), Soda",3,47.85,Credit Card,Discover
+1210,Customer B10,"Chicken Sandwich, Fries, Ice Cream (Strawberry)",4,39.80,Credit Card,Discover
+1211,Customer B11,"Chicken Sandwich, Fries, Water Bottle",3,27.15,Credit Card,Visa
+1212,Customer B12,"Water Bottle, Soda",3,11.40,Credit Card,MasterCard
+1213,Customer B13,Ice Cream (Chocolate),2,6.00,Cash,-
+1214,Customer B14,"Cheese Pizza (Slice), Ice Cream (Chocolate)",4,24.60,Credit Card,Visa
+1215,Customer B15,"Chicken Sandwich, Fries, Popcorn, Soda",3,30.45,Credit Card,MasterCard
+1216,Customer B16,"Popcorn, Ice Cream (Vanilla)",2,9.00,Cash,-
+1217,Customer B17,"Whole Pepperoni, Lemonade",5,23.75,Credit Card,Visa
+1218,Customer B18,"Hot Dog, Lemonade",4,17.00,Credit Card,MasterCard
+1219,Customer B19,"Cheese Pizza (Slice), Lemonade",2,11.30,Credit Card,Visa
+1220,Customer B20,"Meatball Pizza (Slice), Soda",3,37.35,Credit Card,Discover
+1221,Customer B21,"Hot Dog, Meatball Pizza (Slice), Soda",3,21.60,Credit Card,Discover
+1222,Customer B22,Ice Cream (Strawberry),4,12.00,Cash,-
+1223,Customer B23,"Hot Dog, Popcorn, Soda",2,9.90,Credit Card,Visa
+1224,Customer B24,"Pepperoni Pizza (Slice), Water Bottle",3,20.48,Credit Card,MasterCard
+1225,Customer B25,"Chicken Sandwich, Fries, Soda",2,17.30,Credit Card,Visa
+1226,Customer B26,"Fries, Ice Cream (Chocolate)",3,15.60,Credit Card,MasterCard
+1227,Customer B27,"Whole Pepperoni, Soda",4,23.25,Credit Card,MasterCard
+1228,Customer B28,"Hot Dog, Fries, Soda",5,28.25,Credit Card,Visa
+1229,Customer B29,"Chicken Sandwich, Ice Cream (Vanilla)",3,23.25,Credit Card,MasterCard
+1230,Customer B30,"Hot Dog, Lemonade",2,8.50,Credit Card,Visa
+1231,Customer B31,"Cheese Pizza (Slice), Water Bottle",3,15.75,Credit Card,Visa
+1232,Customer B32,"Chicken Sandwich, Fries, Popcorn, Soda",2,20.30,Credit Card,Discover
+1233,Customer B33,"Hot Dog, Lemonade",3,9.75,Cash,-
+1234,Customer B34,"Hot Dog, Popcorn, Soda",3,14.85,Credit Card,MasterCard
+1235,Customer B35,"Chicken Sandwich, Fries, Soda",3,25.95,Credit Card,Visa
+1236,Customer B36,"Popcorn, Soda",3,9.60,Credit Card,Visa
+1237,Customer B37,"Ice Cream (Strawberry), Water Bottle",3,15.30,Credit Card,MasterCard
+1238,Customer B38,"Whole Pepperoni, Lemonade",4,21.25,Credit Card,MasterCard
+1239,Customer B39,"Supreme Pizza (Whole), Water Bottle",3,18.45,Credit Card,Discover
+1240,Customer B40,"Hot Dog, Ice Cream (Vanilla)",4,19.00,Credit Card,Discover
+1241,Customer B41,Hot Dog,3,5.25,Credit Card,MasterCard
+1242,Customer B42,"Hot Dog, Soda",1,3.45,Cash,-
+1243,Customer B43,"Chicken Sandwich, Fries, Popcorn, Soda",2,20.30,Credit Card,MasterCard
+1244,Customer B44,"Chicken Sandwich, Fries, Water Bottle",2,18.10,Credit Card,Visa
+1245,Customer B45,"Popcorn, Ice Cream (Strawberry)",3,13.50,Credit Card,Visa
+1246,Customer B46,"Popcorn, Ice Cream (Vanilla)",2,9.00,Credit Card,MasterCard
+1247,Customer B47,Water Bottle,2,4.20,Cash,-
+1248,Customer B48,"Chicken Sandwich, Fries, Soda",2,17.30,Credit Card,MasterCard
+1249,Customer B49,"Pepperoni Pizza (Slice), Soda",2,9.90,Credit Card,MasterCard
+1250,Customer B50,Ice Cream (Strawberry),4,12.00,Credit Card,Visa
